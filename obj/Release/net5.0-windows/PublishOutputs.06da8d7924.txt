@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Downloader\bin\publish\Downloader.exe
+C:\Users\Usuario\Desktop\Downloader\bin\publish\Downloader.dll
+C:\Users\Usuario\Desktop\Downloader\bin\publish\Downloader.deps.json
+C:\Users\Usuario\Desktop\Downloader\bin\publish\Downloader.runtimeconfig.json
+C:\Users\Usuario\Desktop\Downloader\bin\publish\Downloader.pdb
+C:\Users\Usuario\Desktop\Downloader\bin\publish\AngleSharp.dll
+C:\Users\Usuario\Desktop\Downloader\bin\publish\YoutubeExplode.dll
